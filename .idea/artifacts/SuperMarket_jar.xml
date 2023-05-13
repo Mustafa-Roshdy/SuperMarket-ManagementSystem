@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SuperMarket:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SuperMarket_jar</output-path>
+    <root id="archive" name="SuperMarket.jar">
+      <element id="module-output" name="SuperMarket" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../New folder (8)/mysql-connector-j-8.0.32/mysql-connector-j-8.0.32.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
